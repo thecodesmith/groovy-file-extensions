@@ -34,10 +34,11 @@ config {
                 id = 'MIT'
             }
         }
-        enabled = false
+        enabled = true
     }
 
     bintray {
+        enabled    = true
         userOrg    = 'thecodesmith'
         name       = 'groovy-file-extensions'
         repo       = 'maven'
