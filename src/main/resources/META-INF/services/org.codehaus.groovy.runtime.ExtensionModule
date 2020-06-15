@@ -1,0 +1,3 @@
+moduleName = Utility extension methods
+moduleVersion = 1.0.0
+extensionClasses = com.thecodesmith.groovy.extensions.FileExtension
